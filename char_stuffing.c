@@ -30,3 +30,13 @@ int main()
     printf("The stuffed string is: %s", fs);
     return 0;
 }
+
+/*
+
+OUTPUT
+
+Enter character to be stuffed: hello
+Enter character that represents starting delimiter: h
+Enter character that represents ending delimiter: o
+The stuffed string is: hhhellooo
+*/
