@@ -26,3 +26,16 @@ int main()
     }
     return 0;
 }
+
+/*
+OUTPUT
+
+ please enter a string :        hello
+
+ please  choose following options :
+1= encrypt the string.
+2= decrypt the string .
+1
+
+ encrypted string :khoor
+*/
