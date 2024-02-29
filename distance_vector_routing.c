@@ -45,3 +45,36 @@ int main()
     printf("\n\n");
     getch();
 }
+
+/*
+OUTPUT:
+
+
+ enter the no of nodes3
+
+ enter the cost matrix :
+1 1 3
+2 5 6
+4 6 7
+
+
+ for router 1
+
+ node 1 via distance  1
+ node 2 via distance  2
+ node 3 via distance  3
+
+ for router 2
+
+ node 1 via distance  1
+ node 2 via distance  2
+ node 3 via distance  3
+
+ for router 3
+
+ node 1 via distance  1
+ node 2 via distance  2
+ node 3 via distance  3
+
+
+*/
