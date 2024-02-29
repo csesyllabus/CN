@@ -41,3 +41,11 @@ int main()
         printf("%d", b[i]);
     return 0;
 }
+/*
+
+OUTPUT
+
+Enter frame size :3
+Enter the frame in the form of 0 and 1 :1 0 1
+After Bit Stuffing :101
+*/
